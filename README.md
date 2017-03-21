@@ -1,9 +1,9 @@
 How Did I Get Here?
-Elementary School Presentation
+Middle School Presentation
 [http://marcysutton.github.io/how-did-i-get-here/](http://marcysutton.github.io/how-did-i-get-here/)
 
 By [Marcy Sutton](http://marcysutton.com)<br>
-Developer at [Substantial](http://substantial.com)<br>
+Senior Front-End Engineer at Deque Systems<br>
 twitter: [@marcysutton](http://twitter.com/marcysutton)
 
 ## Installation
@@ -17,14 +17,14 @@ Some reveal.js features require that presentations run from a local web server. 
 
 2. Install [Grunt](http://gruntjs.com/getting-started#installing-the-cli)
 
-4. Clone the reveal.js repository
+4. Clone the slide repository
 ```
-$ git clone git@github.com:hakimel/reveal.js.git
+$ git clone git@github.com:marcysutton/how-did-i-get-here.git
 ```
 
 5. Navigate to the reveal.js folder
 ```
-$ cd reveal.js
+$ cd how-did-i-get-here
 ```
 
 6. Install dependencies
